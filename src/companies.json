@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Apple",
+    "logo": "/img/amazon.png",
+    "ticker": "$AAPL",
+    "description": "Beispieltext"
+  },
+  {
+    "name": "Meta",
+    "logo": "/img/meta.png",
+    "ticker": "$META",
+    "description": "Beispieltext"
+  },
+  {
+    "name": "Microsoft",
+    "logo": "/img/microsoft.png",
+    "ticker": "$MSFT",
+    "description": "Beispieltext"
+  },
+  {
+    "name": "Google",
+    "logo": "/img/google.png",
+    "ticker": "$GOOGL",
+    "description": "Beispieltext"
+  },
+  {
+    "name": "Amazon",
+    "logo": "/img/amazon.png",
+    "ticker": "$AMZN",
+    "description": "Beispieltext"
+  },
+  {
+    "name": "Tesla",
+    "logo": "/img/tesla.png",
+    "ticker": "$TSLA",
+    "description": "Beispieltext"
+  },
+  {
+    "name": "Nvidia",
+    "logo": "/img/nvidia.png",
+    "ticker": "$NVDA",
+    "description": "Beispieltext"
+  }
+]
